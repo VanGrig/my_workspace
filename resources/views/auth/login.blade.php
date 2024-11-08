@@ -16,7 +16,7 @@
                             </a>
                         </div>
                         <!-- /Logo -->
-                        <h4 class="mb-2">Welcome to Sneat! 👋</h4>
+                        <h4 class="mb-2">Welcome to Your Workspace! 👋</h4>
                         <p class="mb-4">Please sign-in to your account and start the adventure</p>
 
                         <!-- Display Validation Errors -->
